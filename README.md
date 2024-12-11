@@ -22,7 +22,7 @@ click here Watche Video
 # Installation
 
 Clone the repository: 
-git clone https://github.com/yourusername/wallpaper-app.git
+git clone https://github.com/Savaliyasmit/wallpaper-app.git
 
 Navigate to the project directory:
 cd wallpaper-app
@@ -39,4 +39,9 @@ iOS 13.0+
 Xcode 14.0+
 
 Swift 5.7+
+
+# Credits
+
+By Smit Savaliya
+
 
