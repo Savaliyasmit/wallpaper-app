@@ -9,7 +9,10 @@ Sidebar Navigation: Access categories and settings with a side menu.
 Optimized UI: Seamless integration of UICollectionView and UITableView.
 
 # Demo Video
-https://github.com/Savaliyasmit/DemoVideo.git
+
+https://github.com/user-attachments/assets/bf805afe-b4fe-4cc6-b9b6-ad880e2e9db0
+
+
 
 click here Watche Video 
 
