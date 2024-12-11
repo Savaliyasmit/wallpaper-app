@@ -21,7 +21,7 @@ open WallpaperApp.xcodeproj
 
 Build and run the project on the simulator or your connected device.
 
-#Requirements 
+#Requirements
 iOS 13.0+ 
 Xcode 14.0+
 Swift 5.7+
