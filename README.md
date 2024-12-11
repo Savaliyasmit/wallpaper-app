@@ -1,3 +1,6 @@
+# Note
+1.This project is developed on a Hackintosh setup. Both the iOS simulator and the demo video may experience lag due to the limitations of the setup.
+
 # Wallpaper App
 
 Welcome to the Wallpaper App! This app allows users to browse, categorize, and save stunning wallpapers directly to their photo gallery. Additionally, it features a user-friendly sidebar navigation with a UICollectionView for displaying categories and a UITableView for additional settings.
