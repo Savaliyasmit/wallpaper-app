@@ -8,6 +8,11 @@ Category Browsing: Navigate through wallpaper categories via a horizontally scro
 Sidebar Navigation: Access categories and settings with a side menu.
 Optimized UI: Seamless integration of UICollectionView and UITableView.
 
+# Demo Video
+https://github.com/Savaliyasmit/DemoVideo.git
+
+click here Watche Video 
+
 # Installation
 
 Clone the repository: 
